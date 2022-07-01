@@ -18,5 +18,6 @@ button.addEventListener('click', () =>{
     }else{
         chetos.style.display = 'none'
         cards_contain.style.display = 'none'
+        main.style.height = '100vh'
     }
 })
